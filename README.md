@@ -35,6 +35,3 @@ Anything else
 
 If there's anything wrong, anything missing or another thing that didn't make you satisfied, please consider opening a ticket or leave a comment here below.
 
-
-GitHub GitHub
-Donate Donate
