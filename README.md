@@ -31,7 +31,4 @@ Interval: How often the server should refresh the client (no more than 15 second
 ExplosionSources	Specify how much damage a specific explosion source should make to blocks handled by this plugin
 (entity name): (damage)	
 
-Anything else
-
-If there's anything wrong, anything missing or another thing that didn't make you satisfied, please consider opening a ticket or leave a comment here below.
 
